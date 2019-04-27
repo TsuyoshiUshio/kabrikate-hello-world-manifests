@@ -1,0 +1,1 @@
+# kabrikate-hello-world-manifests
